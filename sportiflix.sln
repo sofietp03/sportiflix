@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sportiflix", "sportiflix\sportiflix.csproj", "{BB6E8409-9E7D-4E19-9224-E5D51741F27C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB6E8409-9E7D-4E19-9224-E5D51741F27C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB6E8409-9E7D-4E19-9224-E5D51741F27C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB6E8409-9E7D-4E19-9224-E5D51741F27C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB6E8409-9E7D-4E19-9224-E5D51741F27C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {678EDC1D-2E92-4551-8667-52DEBE2292BA}
+	EndGlobalSection
+EndGlobal
