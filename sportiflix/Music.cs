@@ -15,19 +15,20 @@ namespace sportiflix
 
             switch (Console.ReadKey(true).Key)
             {
-               
-      
-                    
+
+
+
                 case ConsoleKey.D1:
                     break;
                 case ConsoleKey.D2:
                     break;
                 case ConsoleKey.D3:
                     break;
-               default:
+                default:
                     break;
+            }
+
+
+        }
     }
-
-
-   
 }
