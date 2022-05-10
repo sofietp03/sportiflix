@@ -1,5 +1,6 @@
 ﻿using sportiflix;
 
-Movie movie = new Movie();
+new Menu().Start();
+
 
 

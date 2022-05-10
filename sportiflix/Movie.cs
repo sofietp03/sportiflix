@@ -9,6 +9,7 @@ namespace sportiflix
     internal class Movie: Parent
     {
 
+        public Genre Genre { get; set; }
 
     }
 }
