@@ -1,0 +1,15 @@
+{
+  "MovieList": [
+    {
+      "Genre": 2,
+      "Title": "grown ups ",
+      "ReleaseDate": "2010-12-12T00:00:00",
+      "lengthInSeconds": 6300,
+      "WWW": "netflix"
+    }
+  ],
+  "MusicList": [
+  ],
+  "SerieList": [
+  ]
+}

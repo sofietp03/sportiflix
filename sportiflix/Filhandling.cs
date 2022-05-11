@@ -9,16 +9,16 @@ namespace sportiflix
 {
     internal class Filhandling
     {
-        string path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop)+@"/Sportiflix.json";
+      
 
-        public void SaveData(object data)
+        public void SaveData(string path, object data)
         {
             string json = JsonSerializer.Serialize(data);
             File.WriteAllText(path,json);
 
         }
 
-        public T? LoadData <T>()
+        public T? LoadData <T>(string path)
         {
             string load = File.ReadAllText(path);
             T? data = JsonSerializer.Deserialize<T>(load);
